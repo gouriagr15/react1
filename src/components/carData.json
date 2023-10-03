@@ -1,0 +1,66 @@
+{
+    "cars": [
+      { 
+        "imgSrc":"https://cdn.pixabay.com/photo/2020/06/07/20/49/toyota-rav-4-5272095_1280.jpg",
+        "name": "Toyota RAV4",
+        "year": 2021,
+        "fuel": "Hybrid",
+        "seatingCapacity": 4,
+        "mileage": "6.1 km/L",
+        "type": "Automatic",
+        "rentPerMonth": 400
+      },
+      {
+        "imgSrc":"https://cdn.pixabay.com/photo/2019/08/20/08/59/bmw-3-series-4418198_1280.jpg",
+        "name": "BMW 3 Series",
+        "year": 2019,
+        "fuel": "Gasoline",
+        "seatingCapacity": 4,
+        "mileage": "8.2 kM/L",
+        "type": "Automatic",
+        "rentPerMonth": 380
+      },
+      {
+        "imgSrc":"https://cdn.pixabay.com/photo/2022/11/05/17/10/f150-7572360_1280.jpg",
+        "name": "Ford F-150",
+        "year": 2023,
+        "fuel": "Hybrid",
+        "seatingCapacity": 6,
+        "mileage": "3.2 Km/L",
+        "type": "Automatic",
+        "rentPerMonth": 360
+      },
+      {
+        "imgSrc":"https://cdn.pixabay.com/photo/2021/01/21/11/09/tesla-5937063_1280.jpg",
+        "name": "Tesla Model 3",
+        "year": 2023,
+        "fuel": "Hybrid",
+        "seatingCapacity": 5,
+        "mileage": "250 miles/charge",
+        "type": "Electric",
+        "rentPerMonth": 600
+      },
+      {
+        "imgSrc":"https://cdn.pixabay.com/photo/2022/10/06/10/42/car-7502430_1280.jpg",
+        "name": "BMW 4 Series GTI",
+        "year": 2021,
+        "fuel": "Hybrid",
+        "seatingCapacity": 4,
+        "mileage": "7.6 Km/L",
+        "type": "Automatic",
+        "rentPerMonth": 530
+      },
+      {
+        "imgSrc":"https://cdn.pixabay.com/photo/2021/12/23/02/31/cadillac-6888500_640.jpg",
+        "name": "Cadillac Escalade",
+        "year": 2020,
+        "fuel": "Hybrid",
+        "seatingCapacity": 4,
+        "mileage": "7.7 Km/L",
+        "type": "Gasoline",
+        "rentPerMonth": 620
+      }
+  
+    ]
+  }
+  

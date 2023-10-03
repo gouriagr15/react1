@@ -1,0 +1,35 @@
+*{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.ca{
+    display: flex;
+    justify-content: space-between;
+}
+.card-text-1{
+    border: dotted 1px lightblue;
+    width: fit-content;
+    border-radius: 20%;
+    
+}
+.card-img-top{
+    border-radius: 10%;
+}
+.search-option{
+    margin-top: 10px;
+}
+.page{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5px;
+    
+}
+.dapy1{
+    border: 1px solid white;
+    padding: 10px 10px;
+   
+}
+.search-option input[type="text"]{
+    align-items: left;
+}
